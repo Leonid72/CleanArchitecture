@@ -8,9 +8,7 @@ This repository is an implementation of a Clean Architecture design pattern usin
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Running the Application](#running-the-application)
-- [Running Tests](#running-tests)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
@@ -52,3 +50,5 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
+
+dotnet run --project CleanArchitecture.API
